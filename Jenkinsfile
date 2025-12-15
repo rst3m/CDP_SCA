@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    SAFETY_API_KEY = 'YOUR_API_KEY'
+    SAFETY_API_KEY = 'c8396c4d-8c10-4d01-b704-c4c36505c3cc'
   }
 
   stages {
